@@ -193,7 +193,7 @@ const BeachWarriorsMVP = () => {
               <div className="w-12 h-12 bg-gradient-to-r from-blue-500 to-teal-500 rounded-full flex items-center justify-center">
                 <Globe className="text-white" size={24} />
               </div>
-              <h1 className="text-4xl font-bold">Beach Warriors</h1>
+              <h1 className="text-4xl font-bold">Eco Sync</h1>
             </div>
             <p className="text-xl text-gray-300 max-w-2xl mx-auto">
               AI-powered beach cleanup revolution. Transform environmental conservation into an interactive experience.
